@@ -24,6 +24,6 @@ Follow the instructions given under _Install_. Afterwards
 
 ## What does the installation do?
 
-- it copies the `smerge`script to your `~/.bin` folder
+- it copies the `smerge` script to your `~/.bin` folder
 - it creates the `smerge` alias in your `~/.bashrc` file
 - start a new bash so the alias becomes active
