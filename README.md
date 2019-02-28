@@ -7,7 +7,7 @@
 Just run in your bash shell
 
 ```bash
-curl https://github.com/some/not/final/url | bash
+curl https://github.com/newur/command-line-scripts/blob/master/installSmerge.sh | bash
 ```
 
 ## What it does
